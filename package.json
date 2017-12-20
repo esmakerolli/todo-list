@@ -1,0 +1,22 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "Todo list web application with express and mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esmakerolli/todo-list.git"
+  },
+  "author": "Esma Kerolli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esmakerolli/todo-list/issues"
+  },
+  "homepage": "https://github.com/esmakerolli/todo-list#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
